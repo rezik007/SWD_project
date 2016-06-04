@@ -1,0 +1,14 @@
+c:\users\patryk\documents\visual studio 2015\Projects\SWD_project_alpha\SWD_project_alpha\bin\Debug\SWD_project_alpha.exe.config
+c:\users\patryk\documents\visual studio 2015\Projects\SWD_project_alpha\SWD_project_alpha\obj\Debug\SWD_project_alpha.csprojResolveAssemblyReference.cache
+c:\users\patryk\documents\visual studio 2015\Projects\SWD_project_alpha\SWD_project_alpha\obj\Debug\MainWindow.g.cs
+c:\users\patryk\documents\visual studio 2015\Projects\SWD_project_alpha\SWD_project_alpha\obj\Debug\App.g.cs
+c:\users\patryk\documents\visual studio 2015\Projects\SWD_project_alpha\SWD_project_alpha\obj\Debug\SWD_project_alpha_MarkupCompile.cache
+c:\users\patryk\documents\visual studio 2015\Projects\SWD_project_alpha\SWD_project_alpha\obj\Debug\SWD_project_alpha_MarkupCompile.lref
+c:\users\patryk\documents\visual studio 2015\Projects\SWD_project_alpha\SWD_project_alpha\bin\Debug\SWD_project_alpha.exe
+c:\users\patryk\documents\visual studio 2015\Projects\SWD_project_alpha\SWD_project_alpha\bin\Debug\SWD_project_alpha.pdb
+c:\users\patryk\documents\visual studio 2015\Projects\SWD_project_alpha\SWD_project_alpha\obj\Debug\MainWindow.baml
+c:\users\patryk\documents\visual studio 2015\Projects\SWD_project_alpha\SWD_project_alpha\obj\Debug\SWD_project_alpha.g.resources
+c:\users\patryk\documents\visual studio 2015\Projects\SWD_project_alpha\SWD_project_alpha\obj\Debug\SWD_project_alpha.Properties.Resources.resources
+c:\users\patryk\documents\visual studio 2015\Projects\SWD_project_alpha\SWD_project_alpha\obj\Debug\SWD_project_alpha.csproj.GenerateResource.Cache
+c:\users\patryk\documents\visual studio 2015\Projects\SWD_project_alpha\SWD_project_alpha\obj\Debug\SWD_project_alpha.exe
+c:\users\patryk\documents\visual studio 2015\Projects\SWD_project_alpha\SWD_project_alpha\obj\Debug\SWD_project_alpha.pdb
