@@ -12,3 +12,6 @@ c:\users\patryk\documents\visual studio 2015\Projects\SWD_project_alpha\SWD_proj
 c:\users\patryk\documents\visual studio 2015\Projects\SWD_project_alpha\SWD_project_alpha\obj\Debug\SWD_project_alpha.csproj.GenerateResource.Cache
 c:\users\patryk\documents\visual studio 2015\Projects\SWD_project_alpha\SWD_project_alpha\obj\Debug\SWD_project_alpha.exe
 c:\users\patryk\documents\visual studio 2015\Projects\SWD_project_alpha\SWD_project_alpha\obj\Debug\SWD_project_alpha.pdb
+C:\Users\Patryk\Documents\GitHub\SWD_project\SWD_project_alpha\bin\Debug\SWD_project_alpha.exe.config
+C:\Users\Patryk\Documents\GitHub\SWD_project\SWD_project_alpha\obj\Debug\SWD_project_alpha.exe
+C:\Users\Patryk\Documents\GitHub\SWD_project\SWD_project_alpha\obj\Debug\SWD_project_alpha.pdb
