@@ -20,13 +20,14 @@
                     <ComboBox x:Name="comboBox" HorizontalAlignment="Left" Margin="84,141,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="comboBox_SelectionChanged">
                         <ComboBoxItem  x:Name="cbi1" Content="50-100 KM"/>
                         <ComboBoxItem  x:Name="cbi2" Content="100-150 KM"/>
-                        <ComboBoxItem  x:Name="cbi3" Content="&gt;150 KM"/>
+                        <ComboBoxItem  x:Name="cbi3" Content="150-200 KM"/>
+                        <ComboBoxItem  x:Name="cbi4" Content=">200 KM"/>
                     </ComboBox>
                     <Label x:Name="label2_Copy" Content="Liczba miejsc:" HorizontalAlignment="Left" Margin="84,163,0,0" VerticalAlignment="Top"/>
-                    <ComboBox x:Name="comboBox_Copy" HorizontalAlignment="Left" Margin="84,187,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="comboBox_SelectionChanged">
-                        <ComboBoxItem x:Name="cbi4" Content="4 miejsca"/>
-                        <ComboBoxItem x:Name="cbi5" Content="5 miejsc"/>
-                        <ComboBoxItem x:Name="cbi6" Content="7 miejsc"/>
+                    <ComboBox x:Name="comboBox2" HorizontalAlignment="Left" Margin="84,187,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="comboBox_SelectionChanged">
+                        <ComboBoxItem x:Name="cbi5" Content="4 miejsca"/>
+                        <ComboBoxItem x:Name="cbi6" Content="5 miejsc"/>
+                        <ComboBoxItem x:Name="cbi7" Content="7 miejsc"/>
                     </ComboBox>
                     <Button x:Name="button" Content="Szukaj" HorizontalAlignment="Left" Margin="81,235,0,0" VerticalAlignment="Top" Width="75" Click="button_Click"/>
                     <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="156" Margin="25,74,0,0" VerticalAlignment="Top" Width="254"/>
